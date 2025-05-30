@@ -3,3 +3,9 @@ scikit-learn
 pymupdf
 pandas
 resume-parser
+streamlit
+openai
+pdfplumber
+langchain
+resume-parser
+spacy
